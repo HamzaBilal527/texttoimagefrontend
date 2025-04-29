@@ -105,7 +105,7 @@ const CreatePost = () => {
           Create <mark className="px-2 text-white bg-blue-600 rounded dark:bg-blue-500">AI</mark> Images
         </h1>
         <p className="text-lg font-normal text-gray-500 lg:text-xl dark:text-gray-400">
-          Unleash the power of our AI model from Hugging Face to turn your wildest ideas into stunning visual creations.
+          Unleash the power of Divine Studio AI model from Hugging Face to turn your wildest ideas into stunning visual creations.
           Share your imagination with the community and bring your dreams to life!
         </p>
       </div>
